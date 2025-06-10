@@ -20,7 +20,7 @@ This script automates the full manual setup process for enabling **hibernate on 
 ```bash
 chmod +x Fedora-Hibernate.sh
 ./Fedora-Hibernate.sh
-
+```
 ---
 
 ### `tidal_import.py`
@@ -39,5 +39,5 @@ This script scans a local music folder (e.g. a network share or library inbox), 
 ```bash
 pip install mutagen tidalapi
 python tidal_import.py
-
+```
 ---
