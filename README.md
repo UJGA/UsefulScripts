@@ -1,6 +1,6 @@
 # UsefulScripts
 
-A curated collection of scripts designed to automate and streamline setup tasks on the [Framework 13](https://frame.work) laptop. These scripts are tailored for Linux users (particularly Fedora-based distributions) and aim to simplify system configuration, hardware support, and quality-of-life improvements.
+A curated collection of scripts designed to automate and streamline setup tasks on the [Framework 13](https://frame.work) laptop. These scripts are tailored for my use cases and aim to simplify system configuration, hardware support, and quality-of-life improvements.
 
 ---
 
