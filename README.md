@@ -47,7 +47,7 @@ python tidal_import.py
 
 This PowerShell script provides an **interactive VM deployment system** for VMware vSphere environments, designed for educational or lab settings where multiple VMs need to be created and assigned to users from Active Directory groups.
 
-**Sanitized for envrionment anonymity**
+**Sanitized by Claude Sonnet 4 for envrionment anonymity**
 
 **Features:**
 - Interactive menu-driven configuration for all deployment parameters
@@ -94,7 +94,7 @@ The script will prompt for all necessary parameters including:
 
 This PowerShell script provides a **streamlined solution for adding individual students** to existing VM lab environments. It automatically detects the next available VM numbers and creates new VMs for late-enrolling students without disrupting existing assignments.
 
-**Sanitized for envrionment anonymity**
+**Sanitized by Claude Sonnet 4 for envrionment anonymity**
 
 **Features:**
 - Intelligent VM numbering that continues from existing deployments
